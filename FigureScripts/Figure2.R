@@ -10,7 +10,7 @@ library(matrixStats)
 library(RColorBrewer)
 source("PlotPatterns.R")
 
-outdir <- "Figure2"
+outdir <- "output/Figure2"
 indir <- "input"
 
 ##### Figure 2A: Rapid Recall (RR) gene heatmap

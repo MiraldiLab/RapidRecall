@@ -14,7 +14,7 @@ library(Seurat)
 library(Signac)
 library(viridis)
 
-outdir <- "Figure6"
+outdir <- "output/Figure6"
 indir <- "input"
 
 # Sort out Naive and Naive_Responsive cells

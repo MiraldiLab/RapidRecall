@@ -12,7 +12,7 @@ library(DESeq2)
 library(ggrepel)
 
 indir <- "input"
-outdir <- "Figure1" #output director for figure 1
+outdir <- "output/Figure1" #output director for figure 1
 
 #Load in seurat object, pseudobulked data, and celltype colors
 obj <- readRDS(paste0(indir,"/integrated2.rds"))

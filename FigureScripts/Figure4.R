@@ -15,7 +15,7 @@ library(Signac)
 library(ggplot2)
 source("PlotPatterns.R")
 
-outdir <- "Figure4"
+outdir <- "output/Figure4"
 indir <- "input"
 
 ########### Figure 4A: Heatmap of rapid recall peaks

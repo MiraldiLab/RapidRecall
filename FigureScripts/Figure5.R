@@ -13,7 +13,7 @@ library(patchwork)
 library(Seurat)
 library(Signac)
 
-outdir <- "Figure5"
+outdir <- "output/Figure5"
 indir <- "input"
 
 ######## Figure 5A: Heatmap of peaks differential between memory and naive at rest

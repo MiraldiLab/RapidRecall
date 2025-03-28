@@ -9,7 +9,7 @@ library(RColorBrewer)
 library(circlize)
 
 
-outdir <- "Figure7"
+outdir <- "output/Figure7"
 indir <- "input"
 
 ## Fig7A: RELI heatmap

@@ -14,7 +14,7 @@ source("ORA.R")
 source("PlotGene.R")
 source("PlotPatternsTCM.R")
 
-outdir <- "Figure3"
+outdir <- "output/Figure3"
 indir <- "input"
 
 # Load in seurat object and create a celltype_condition metadata column
