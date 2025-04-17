@@ -1,7 +1,7 @@
 # RapidRecall
 Codebases and interactive data visualization supporting:
 
-[Katko et al., Gene regulatory network determinant of rapid recall in human memory CD4+ T cells](https://www.biorxiv.org/content/10.1101/2025.04.06.646912v1)
+[Katko et al., Gene regulatory network determinants of rapid recall in human memory CD4+ T cells](https://www.biorxiv.org/content/10.1101/2025.04.06.646912v1)
 
 ## Interactive data and gene regulatory network visualization
 * [Gene Regulatory Network Visualization](CytoscapeNetworks/README.md) Interactive visualization of gene regulatory networks using Cytoscape.
