@@ -22,7 +22,7 @@ By right-clicking on one of the subpopulation tracks and selecting the "pack" op
 
 <img width="1225" height="605" alt="260201_CD4_T_Cell_UCSC_Genome_Browser_Settings_Two" src="https://github.com/user-attachments/assets/9184843d-9c1c-4db3-8c91-eaeffe032694" />
 
-For example, the following screenshot demonstrates all of the TFs that are predicted to bind at one of the promoters of _IFNG_ in the resting Th1 subpopulation. 
+For example, the following screenshot demonstrates TFBS for all of the TFs that are predicted to bind at an _IFNG_ promoter in the resting Th1 subpopulation. 
 
 <img width="2250" height="2633" alt="260201_CD4_T_Cell_UCSC_Genome_Browser_Th1_Rest_Screenshot" src="https://github.com/user-attachments/assets/97db90cd-a9eb-4267-8138-1d80ad32f5e5" />
 
