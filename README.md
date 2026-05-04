@@ -1,7 +1,7 @@
 # RapidRecall
 Codebases and interactive data visualization supporting:
 
-[Katko et al., Gene regulatory network determinants of rapid recall in human memory CD4+ T cells](https://www.biorxiv.org/content/10.1101/2025.04.06.646912v1)
+[Katko et al., Gene regulatory network determinants of rapid recall in human memory CD4+ T cells](https://doi.org/10.1016/j.celrep.2026.117103)
 
 ## Interactive data and gene regulatory network visualization
 * [Gene Regulatory Network Visualization](CytoscapeNetworks/README.md) Interactive visualization of gene regulatory networks using Cytoscape.
@@ -9,5 +9,5 @@ Codebases and interactive data visualization supporting:
 * [UCSC Genome Browser track hub of accessibility and maxATAC in silico TF ChIP-seq](genomeBrowserViz/README.md) Visualize activation-dependent accessible chromatin and in silico ChIP-seq predictions for hundreds of TFs, resolved by CD4+ T cell populations and activation timepoints.
 
 ## Codebases
-* [Figure codebases](FigureScripts/README.md) enable reproduction of [Katko et al.](https://www.biorxiv.org/content/10.1101/2025.04.06.646912v1) manuscript figures.
+* [Figure codebases](FigureScripts/README.md) enable reproduction of [Katko et al.](https://doi.org/10.1016/j.celrep.2026.117103) manuscript figures.
 
